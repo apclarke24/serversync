@@ -225,7 +225,7 @@ describe("UserProfile", () => {
 
 ## 🛣 **Roadmap**
 
-### v1.0 (Q1 2024)
+### v1.0 (Q3 2025)
 
 - [x] Core state management API
 - [x] React 18 concurrent rendering support
@@ -233,14 +233,14 @@ describe("UserProfile", () => {
 - [x] TypeScript support
 - [ ] Comprehensive testing utilities
 
-### v1.1 (Q2 2024)
+### v1.1 (Q4 2025)
 
 - [ ] Advanced DevTools with time-travel debugging
 - [ ] Plugin architecture
 - [ ] Performance optimization tools
 - [ ] Migration tools from Redux/Zustand
 
-### v2.0 (Q3 2024)
+### v2.0 (Q1 2026)
 
 - [ ] React 19 compiler integration
 - [ ] Advanced Server Components features
@@ -256,7 +256,7 @@ We welcome contributions! Please see our [Contributing Guide](./CONTRIBUTING.md)
 ### Development Setup
 
 ```bash
-git clone https://github.com/your-username/serversync.git
+git clone https://github.com/apclarke24/serversync.git
 cd serversync
 npm install
 npm run dev
@@ -266,7 +266,7 @@ npm run dev
 
 ## 📄 **License**
 
-MIT © [Your Name](https://github.com/your-username)
+MIT © [Austin Clarke](https://github.com/apclarke24)
 
 ---
 
@@ -283,5 +283,5 @@ ServerSync is inspired by the excellent work of:
 
 <p align="center">
   <b>Built for the future of React development</b><br>
-  <a href="https://github.com/your-username/serversync">⭐ Star us on GitHub</a>
+  <a href="https://github.com/apclarke24/serversync">⭐ Star me on GitHub</a>
 </p>
