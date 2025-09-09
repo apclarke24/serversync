@@ -29,16 +29,16 @@
     "ssr",
     "hooks"
   ],
-  "author": "Your Name",
+  "author": "Austin Clarke",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/serversync.git"
+    "url": "https://github.com/apclarke24/serversync.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/serversync/issues"
+    "url": "https://github.com/apclarke24/serversync/issues"
   },
-  "homepage": "https://github.com/your-username/serversync#readme",
+  "homepage": "https://github.com/apclarke24/serversync#readme",
   "peerDependencies": {
     "react": ">=18.0.0"
   },
